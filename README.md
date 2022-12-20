@@ -24,7 +24,7 @@ Twitter Authentication
 Register twitter API and get keys to generate Bearer Token.
 
 
-![image](​ ​https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png​​)
+![image](https://github.com/Refulic/EC601_tasks/blob/main/pics/keys_and_tokens.JPG)
 
 Get recent public tweets
 --
@@ -37,7 +37,7 @@ In this file, use the tag "facebook"
 
 tweets will be pulled like shows
 
-![image](​ ​https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png​​)
+![image](https://github.com/Refulic/EC601_tasks/blob/main/pics/tweet1.JPG)
 
-![image](​ ​https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png​​)
+![image](https://github.com/Refulic/EC601_tasks/blob/main/pics/tweet2.JPG)
 
