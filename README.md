@@ -35,9 +35,25 @@ Get tweets that contain the hashtag
 
 In this file, use the tag "facebook"
 
-tweets will be pulled like shows
+tweets will be pulled like the following shows:
 
 ![image](https://github.com/Refulic/EC601_tasks/blob/main/pics/tweet1.JPG)
 
 ![image](https://github.com/Refulic/EC601_tasks/blob/main/pics/tweet2.JPG)
+
+Data processing to generate Sentiment Labels
+--
+Calculating Negative, Positive, Neutral and Compound values
+
+![image](https://github.com/Refulic/EC601_tasks/blob/main/pics/tweet2.JPG)
+
+Sentiment Visualisation
+--
+create data for Donut Chart
+
+This char will directly shows the different sentiments.
+![image]([https://github.com/Refulic/EC601_tasks/blob/main/pics/tweet2.JPG](https://github.com/Refulic/EC601_tasks/blob/main/pics/graphy.JPG))
+
+
+
 
