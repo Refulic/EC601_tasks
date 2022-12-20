@@ -1,4 +1,9 @@
 # EC601_tasks
-homework
+Sentiment Analysis with Tweepy
 ========
-This is about the twitter api task
+Set up environment
+==
+This will be the import on the code.
+Twitter Authentication
+==
+![image](​ ​https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png​​)
