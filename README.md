@@ -21,5 +21,23 @@ import matplotlib.pyplot as plt
 
 Twitter Authentication
 --
+Register twitter API and get keys to generate Bearer Token.
+
 
 ![image](​ ​https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png​​)
+
+Get recent public tweets
+--
+
+Pull tweets from twitter
+
+Get tweets that contain the hashtag
+
+In this file, use the tag "facebook"
+
+tweets will be pulled like shows
+
+![image](​ ​https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png​​)
+
+![image](​ ​https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png​​)
+
