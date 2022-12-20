@@ -4,7 +4,18 @@ Sentiment Analysis with Tweepy
 Set up environment
 --
 
-This will be the import on the code.
+```import tweepy
+import pandas as pd
+import re
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+from textblob import TextBlob
+import nltk
+nltk.download('vader_lexicon')
+
+import numpy as np
+from PIL import Image
+from wordcloud import WordCloud, STOPWORDS
+import matplotlib.pyplot as plt
 
 Twitter Authentication
 --
