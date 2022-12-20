@@ -45,14 +45,14 @@ Data processing to generate Sentiment Labels
 --
 Calculating Negative, Positive, Neutral and Compound values
 
-![image](https://github.com/Refulic/EC601_tasks/blob/main/pics/tweet2.JPG)
+![image](https://github.com/Refulic/EC601_tasks/blob/main/pics/data_processing.JPG)
 
 Sentiment Visualisation
 --
 create data for Donut Chart
 
 This char will directly shows the different sentiments.
-![image]([https://github.com/Refulic/EC601_tasks/blob/main/pics/tweet2.JPG](https://github.com/Refulic/EC601_tasks/blob/main/pics/graphy.JPG))
+![image](https://github.com/Refulic/EC601_tasks/blob/main/pics/graphy.JPG)
 
 
 
